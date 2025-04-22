@@ -1,4 +1,4 @@
-package com.playground;
+package com.playground.ratelimiter;
 
 import java.time.Instant;
 import java.util.Iterator;
